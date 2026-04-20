@@ -1,3 +1,10 @@
+"""
+Script de análise exploratória de churn.
+
+Este arquivo contém uma versão em código puro da análise inicial,
+sem visualizações, utilizada para exploração rápida dos dados.
+"""
+
 import pandas as pd
 
 # carregando dados
