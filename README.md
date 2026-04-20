@@ -50,7 +50,7 @@ Identificar variáveis que influenciam o churn e avaliar a possibilidade de prev
 
 - Python
 - Pandas
-- Matplotlib / Seaborn
+- Matplotlib /  Seaborn
 - Scikit-learn
 
 ---
